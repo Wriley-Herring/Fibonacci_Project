@@ -3,7 +3,7 @@ File: countfib.py
 Prints the the number of calls of a recursive Fibonacci
 function with problem sizes that double.
 
-Modified by: Wriley Herring
+Author: Wriley Herring
 
 Added Memoization functionality to reduce recursive calls
 
